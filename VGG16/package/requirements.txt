@@ -1,6 +1,6 @@
 #sklearn==0.20.4
 #numpy==1.16.5
-tensorflow-gpu== 1.14.0
+tensorflow-gpu== 2.9.3
 
 #keras==2.2.5
 
